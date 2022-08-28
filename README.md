@@ -31,3 +31,5 @@ This data contains following features:
 ● thal - 3 = normal; 6 = fixed defect; 7 = reversable defect 
 
 ● target - have disease or not (1=yes, 0=no)
+
+Algorithm used to design this project is 𝑳𝒐𝒈𝒊𝒔𝒕𝒊𝒄𝑹𝒆𝒈𝒓𝒆𝒔𝒔𝒊𝒐𝒏
