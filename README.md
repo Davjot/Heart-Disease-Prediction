@@ -32,6 +32,10 @@ This data contains following features:
 
 ● target - have disease or not (1=yes, 0=no)
 
+I have used 0 and 1 to predict whether a person have a heart disease or not in foloowing way:
+       0 --> The Person does not have a Heart Disease
+       1 --> The Person have a Heart Disease
+
 Algorithm used to design this project is Logistic Regression.
 
 The prgram then divides the dataset into training and testing samples in 80:20 ratio randomly using train_test_split() function available in sklearn module.
