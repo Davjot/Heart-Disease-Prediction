@@ -2,6 +2,8 @@
 
 This dataset has been taken from https://www.kaggle.com/code/cdabakoglu/heart-disease-classifications-machine-learning/data
 
+![12859_2020_3626_Fig10_HTML](https://user-images.githubusercontent.com/71970250/187073273-b0eb0974-f1c6-41f5-8ee8-34d3584c3f7f.png)
+
 This data contains following features:
 
 ● age - age in years 
@@ -32,7 +34,7 @@ This data contains following features:
 
 ● target - have disease or not (1=yes, 0=no)
 
-I have used 0 and 1 to predict whether a person have a heart disease or not in foloowing way:
+0 and 1 are used to predict whether a person have a heart disease or not in the following way:
 
 ● 0 --> The Person does not have a Heart Disease
 
