@@ -44,4 +44,4 @@ Algorithm used to design this project is Logistic Regression.
 
 The prgram then divides the dataset into training and testing samples in 80:20 ratio randomly using train_test_split() function available in sklearn module.
 
-Accuracy score is then calculated by comparing with the coreect results of the training dataset.
+Accuracy score is then calculated by comparing with the correct results of the training dataset.
